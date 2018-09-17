@@ -104,7 +104,7 @@ print(f)
 ```
 
 ## Funzioni
-Le funzioni in Python sono oggetti che possono essere passate tra parti diverse di codice:
+Le funzioni in Python sono oggetti che come in JS possono essere passate tra parti diverse di codice:
 
 ```Python
 # define a basic function
