@@ -57,10 +57,9 @@ f,e,d = 0,1,2 # assegnazione multipla
 # si modificano le variabilisemplicemente riassegnandole
 f = "abc"
 
-# A differenza di JS variabili di differenti tipi non possono essere combinati: 
+""" A differenza di JS variabili di differenti tipi non possono essere combinati: 
 # print ("string type " + 123) -> dà errore
-# print ("string type " + str(123))   # corretta
-```
+# print ("string type " + str(123))   # corretta """
 
 A differenza di JavaScript, Python non ha il concetto di 'undefined'. Invece, ciò che normalmente farebbe ritornare un undefined in Javascript semplicemente genera in Python una eccezione. Inoltre l'analogo di 'null' in JS è 'None'.
 ```Python
